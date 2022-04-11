@@ -19,7 +19,7 @@ and much more.........
 
 # Get started
 
-1. git clone https://github.com/mRanonyMousTZ/commando.git
+1. git clone https://github.com/AuxGrep/commando
 
 2. cd commando && chmod +X commando.py
 
