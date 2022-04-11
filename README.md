@@ -21,7 +21,7 @@ and much more.........
 
 1. git clone https://github.com/AuxGrep/commando
 
-2. cd commando && chmod +X commando.py
+2. cd commando && chmod +X commando.py && sudo pip3 install pycrypto
 
 3. python3 commando.py
 
