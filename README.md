@@ -21,7 +21,9 @@ and much more.........
 
 1. git clone https://github.com/AuxGrep/commando
 
-2. cd commando && chmod +X commando.py && sudo pip3 install pycrypto
+I WROTE THIS PROJECT WITH OLDER pycrypto modules which is not used anymore nowdays SO to upgrade and to make it happen install PyCryptodome
+
+2. cd commando && chmod +X commando.py && sudo pip3 uninstall PyCrypto && pip3 install -U PyCryptodome
 
 3. python3 commando.py
 
